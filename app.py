@@ -3,7 +3,7 @@
 #  Run: streamlit run app.py
 # ─────────────────────────────────────────────
 
-import sys, os #Testing git .Checked it's working....
+import sys, os #Testing git = Commiting changes"
 
 # Windows cp1252 fix — force UTF-8 output so emojis in HTML never crash
 if hasattr(sys.stdout, "reconfigure"):
